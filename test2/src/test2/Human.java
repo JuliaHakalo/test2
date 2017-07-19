@@ -7,5 +7,4 @@ public class Human {
 		super();
 		this.bla_bla = bla_bla;
 	}
-	
 }
